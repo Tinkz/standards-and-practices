@@ -135,6 +135,7 @@ Format:
 | Michael Lim | [1ronclaw](https://github.com/1ronclaw) ||
 | Mike | [M0876](https://github.com/M0876) ||
 | Mike Chen | [mhchen](https://github.com/mhchen) ||
+| Mike Jiang | [Tinkz](https://github.com/Tinkz) ||
 | Mitch L | [SilentFox](https://github.com/SilentFox) |Experience with Java, C++, C.  Learning Python.|
 | Nainesh Patel | [nain33](https://github.com/nain33) | 3rd year Comp Sci student wih some experience in Java, C, Python and C#. |
 | Nancy Iskander | [C-xC-q](https://github.com/C-xC-q) ||
